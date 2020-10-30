@@ -1,0 +1,8 @@
+chromedriver_win32/
+.idea/
+Envs/
+auth_data.py
+.env
+
+
+
